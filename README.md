@@ -3,7 +3,7 @@ Portfolio repository for CS-360: Mobile Architect &amp; Programming
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
     
-    This application was designed to be an event tracking application with at least 3 screens: Login, view current events, and create a new event. This application was for users who live a busy life and like to stay organized. I chose to design this event tracking application for a basketball team, where team practices and games can be added or modified. 
+This application was designed to be an event tracking application with at least 3 screens: Login, view current events, and create a new event. This application was for users who live a busy life and like to stay organized. I chose to design this event tracking application for a basketball team, where team practices and games can be added or modified. 
     
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
   
